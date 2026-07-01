@@ -5,12 +5,9 @@
     "price": 2890,
     "category": "Фигурки",
     "universe": "Marvel",
-    "description": "Коллекционная фигурка Spider-Man в классическом костюме. Высота 25 см. Идеальный подарок для фанатов вселенной Marvel. Фигурка выполнена из высококачественного пластика с проработкой всех деталей.",
-    "image": "",
-    "images": [],
-    "isNew": true,
-    "rating": 0,
-    "reviewsCount": 0
+    "description": "Коллекционная фигурка Spider-Man",
+    "image": "/products/Фигурка Spider-Man.jpg",
+    "isNew": true
   },
   {
     "id": 2,
@@ -18,12 +15,9 @@
     "price": 990,
     "category": "Комиксы",
     "universe": "DC",
-    "description": "Культовый комикс Batman #1. Первое появление Тёмного рыцаря. Репринтное издание с оригинальной обложкой 1939 года.",
-    "image": "",
-    "images": [],
-    "isNew": false,
-    "rating": 0,
-    "reviewsCount": 0
+    "description": "Комикс Batman для коллекции",
+    "image": "/products/Комикс Batman 1.jpg",
+    "isNew": false
   },
   {
     "id": 3,
@@ -31,12 +25,9 @@
     "price": 5190,
     "category": "Фигурки",
     "universe": "Anime",
-    "description": "Фигурка Леви Аккермана из аниме «Атака Титанов». Высота 28 см. Капитан Разведкорпуса в характерной позе с ODM-механизмом.",
-    "image": "",
-    "images": [],
-    "isNew": true,
-    "rating": 0,
-    "reviewsCount": 0
+    "description": "Аниме-фигурка Levi Ackerman",
+    "image": "/products/Фигурка Levi Ackerman.jpeg",
+    "isNew": true
   },
   {
     "id": 4,
@@ -44,12 +35,9 @@
     "price": 750,
     "category": "Манга",
     "universe": "Anime",
-    "description": "Первый том культовой манги «Человек-бензопила» от Тацуки Фудзимото.",
-    "image": "",
-    "images": [],
-    "isNew": false,
-    "rating": 0,
-    "reviewsCount": 0
+    "description": "Манга Chainsaw Man",
+    "image": "/products/Манга Chainsaw Man.jpg",
+    "isNew": false
   },
   {
     "id": 5,
@@ -57,12 +45,9 @@
     "price": 4490,
     "category": "Фигурки",
     "universe": "Star Wars",
-    "description": "Фигурка Дарта Вейдера из вселенной Звёздных Войн. Высота 30 см. Тёмный лорд ситхов в полном облачении с световым мечом.",
-    "image": "",
-    "images": [],
-    "isNew": true,
-    "rating": 0,
-    "reviewsCount": 0
+    "description": "Фигурка Darth Vader",
+    "image": "/products/Фигурка Darth Vader.jpg",
+    "isNew": true
   },
   {
     "id": 6,
@@ -70,50 +55,88 @@
     "price": 1290,
     "category": "Комиксы",
     "universe": "Marvel",
-    "description": "Сборник комиксов о Дэдпуле — самом нестандартном герое Marvel.",
-    "image": "",
-    "images": [],
-    "isNew": false,
-    "rating": 0,
-    "reviewsCount": 0
+    "description": "Комикс Deadpool",
+    "image": "/products/Дэдпул.Величайший комикс в мире! Том 1..jpg",
+    "isNew": false
   },
   {
     "id": 7,
-    "title": "FAITH: The Unholy Trinity",
-    "price": 1490,
-    "category": "Игры",
-    "universe": "Games",
-    "description": "Хоррор-игра в стиле ретро-пиксель арт. FAITH: The Unholy Trinity — атмосферный хоррор с уникальной рисовкой.",
-    "image": "",
-    "images": [],
-    "isNew": false,
-    "rating": 0,
-    "reviewsCount": 0
+    "title": "Фигурка Mace Windu & Clone Trooper",
+    "price": 5590,
+    "category": "Фигурки",
+    "universe": "Star Wars",
+    "description": "Коллекционная фигурка Star Wars",
+    "image": "/products/Star Wars The Black Series Collection Mace Windu & Clone Trooper.jpg",
+    "isNew": true
   },
   {
     "id": 8,
-    "title": "Постер FAITH",
-    "price": 690,
-    "category": "Мерч",
-    "universe": "Games",
-    "description": "Качественный постер по мотивам игры FAITH. Размер А2 (42×59 см).",
-    "image": "",
-    "images": [],
-    "isNew": false,
-    "rating": 0,
-    "reviewsCount": 0
+    "title": "Манга магическая битва",
+    "price": 990,
+    "category": "Манга",
+    "universe": "Anime",
+    "description": "Манга магическая битва",
+    "image": "/products/магическая битва.jpg",
+    "isNew": false
   },
   {
     "id": 9,
-    "title": "Фигурка священника FAITH",
-    "price": 2590,
+    "title": "Фигурка Pyramid Head",
+    "price": 4690,
     "category": "Фигурки",
     "universe": "Games",
-    "description": "Коллекционная фигурка главного героя из игры FAITH. Высота 22 см.",
-    "image": "",
-    "images": [],
-    "isNew": false,
-    "rating": 0,
-    "reviewsCount": 0
+    "description": "Фигурка Pyramid Head из Silent Hill 2",
+    "image": "/products/Сайлент Хилл 2  Пирамидоголовый фигурки.jpg",
+    "isNew": true
+  },
+  {
+    "id": 10,
+    "title": "Фигурка Bubble Head Nurse",
+    "price": 4290,
+    "category": "Фигурки",
+    "universe": "Games",
+    "description": "Фигурка медсестры из Silent Hill 2",
+    "image": "/products/Пузыреголовая медсестра Silent Hill 2.jpg",
+    "isNew": true
+  },
+  {
+    "id": 11,
+    "title": "Фигурка Nightwing",
+    "price": 3990,
+    "category": "Фигурки",
+    "universe": "DC",
+    "description": "Фигурка Nightwing by Jim Lee",
+    "image": "/products/Фигурка Nightwing by Jim Lee.jpg",
+    "isNew": false
+  },
+  {
+    "id": 12,
+    "title": "Фигурка Leon",
+    "price": 4590,
+    "category": "Фигурки",
+    "universe": "Games",
+    "description": "Фигурка Leon из Resident Evil",
+    "image": "/products/Фигурка Resident Evil - Leon.jpg",
+    "isNew": true
+  },
+  {
+    "id": 13,
+    "title": "Фигурка Джирайя",
+    "price": 3890,
+    "category": "Фигурки",
+    "universe": "Anime",
+    "description": "Фигурка Джирайя из Naruto",
+    "image": "/products/фигурка джирайя.jpg",
+    "isNew": false
+  },
+  {
+    "id": 14,
+    "title": "Фигурка Супермена",
+    "price": 3790,
+    "category": "Фигурки",
+    "universe": "DC",
+    "description": "Коллекционная фигурка Superman",
+    "image": "/products/фигурка Супермена.jpg",
+    "isNew": true
   }
 ]
